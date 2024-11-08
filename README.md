@@ -1,8 +1,8 @@
-## AtliQ_Finance_and_Sales_Analytics
+# AtliQ_Finance_and_Sales_Analytics
 
 Welcome to my Data Analytics Project Repository! Here, I present comprehensive insights into both Finance and Sales domains, showcasing my expertise in Power BI, DAX, Power Query, and data modeling. Let's dive into how data-driven insights can transform decision-making in these critical business areas.
 
- # Finance Report
+ ## Finance Report
  
 **Project Goals:**
 - Profit and Loss (P&L) Reports: Created detailed P&L reports segmented by fiscal years and fiscal months.
@@ -17,7 +17,7 @@ Welcome to my Data Analytics Project Repository! Here, I present comprehensive i
 - Strategic Alignment: Ensures financial planning aligns with organizational goals.
 - Building Confidence: Provides stakeholders with a clear view of the organization’s financial outlook.
 
-# Sales Report
+## Sales Report
 
 **Project Goals:**
 - Customer Performance Report: Built an in-depth report to assess individual customer performance.
